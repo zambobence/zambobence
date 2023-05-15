@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my iLost App<br>🌱I am currently learning Redux and Typescript and Redux<br>
+🔭 I am currently working on my iLost App<br>🌱I am currently learning Redux and Typescript <br>
 
 
 ## 🌐 Socials:
