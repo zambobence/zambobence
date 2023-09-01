@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on my [BeerCommerce](https://https://mern-beer-ecommerce.web.app/)<br>🌱I am currently learning Redux and Typescript <br>
+🔭 I am currently working on my [BeerCommerce](https://mern-beer-ecommerce.web.app/) App<br>🌱I am currently learning Redux and Typescript <br>
 
 
 ## 🌐 Socials:
