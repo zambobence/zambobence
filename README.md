@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 I am currently working on my [BeerCommerce](https://mern-beer-ecommerce.web.app/) App<br>🌱I am currently learning Redux and Typescript <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bence-zambo-4b3b76153/)<br>
